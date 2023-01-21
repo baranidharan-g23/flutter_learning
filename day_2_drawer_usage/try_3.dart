@@ -116,7 +116,38 @@ class _MyHomePageState extends State<MyHomePage> {
                 backgroundColor: Colors.white,
                 child: Text("S"),
               ),
-            )
+              otherAccountsPictures: [
+                CircleAvatar(
+                  backgroundColor: Colors.white,
+                )
+              ],
+            ),
+            ListTile(
+              onTap: () {},
+              title: Text("Thrust 1"),
+              leading: Icon(Icons.import_contacts_outlined),
+            ),
+            Divider(),
+            ListTile(
+              title: Text("Thrust 2"),
+              leading: Icon(Icons.import_contacts_outlined),
+            ),
+            Divider(),
+            ListTile(
+              title: Text("Thrust 3"),
+              leading: Icon(Icons.import_contacts_outlined),
+            ),
+            Divider(),
+            ListTile(
+              title: Text("Thrust 4"),
+              leading: Icon(Icons.import_contacts_outlined),
+            ),
+            Divider(),
+            ListTile(
+              title: Text("Thrust 5"),
+              leading: Icon(Icons.import_contacts_outlined),
+            ),
+            Divider()
           ],
         ),
       ),
