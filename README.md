@@ -8,4 +8,4 @@ We can use Google's Material Design to build beautiful, yet fully customizable, 
 
 
 
-[comment]:<>( Resume Link: https://www.canva.com/design/DAFM-UAqvBU/6OYgGdffWmm56JLbJU9-dg/edit?utm_content=DAFM-UAqvBU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutto )
+<!-- Resume Link: https://www.canva.com/design/DAFM-UAqvBU/6OYgGdffWmm56JLbJU9-dg/edit?utm_content=DAFM-UAqvBU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutto -->
